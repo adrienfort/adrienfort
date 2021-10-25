@@ -19,7 +19,7 @@
     </a>
 </p>
 <p align=center>
-  <a href="https://www.poc-innovation.fr/">
+  <a href="https://www.epitech.eu">
       <img src="https://img.shields.io/badge/Epitech-1a2b6d?style=for-the-badge&logo=/e/&logoColor=white">
   </a>
   <a href="https://twitter.com/PoCInnovation">
