@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-  I'm currently in my 2nd year at <b>Epitech</b>, at the head of Software at <b>PoC Innovation</b> and full stack developper at <b>Ramify</b>.
+  I'm currently in my 2nd year at <b>Epitech</b> and head of Software at <b>PoC Innovation</b>.
 </p>
 
 <p align='center'>
