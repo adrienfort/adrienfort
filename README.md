@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-  I'm currently in my 2nd year at <b>Epitech</b> and head of Software at <b>PoC Innovation</b>.
+  I'm currently in my 2nd year at <b>Epitech</b> and president at <b>PoC Innovation</b>.
 </p>
 
 <p align='center'>
